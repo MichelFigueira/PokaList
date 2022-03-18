@@ -33,6 +33,6 @@ I used .NET Core 5 with EF Core and MySQL.<br>
 <b>[Github back-end project][backend]</b>
 
 
-[frontend]: https://www.meetup.com/find/?keywords=angular
-[backend]: https://www.meetup.com/find/?keywords=angular
+[frontend]: https://github.com/MichelFigueira/PokaListWeb
+[backend]: https://github.com/MichelFigueira/PokaListApi
 [creativetim]: https://www.creative-tim.com
